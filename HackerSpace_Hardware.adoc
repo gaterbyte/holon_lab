@@ -1,0 +1,19 @@
+## Hackerspace Network Hardware 
+
+### Firewall
+Zima Board
+
+### Network Gear
+Unifi
+
+#### Access Point
+
+#### Switch
+
+### Smart Powerstrip
+
+### Computer 
+
+HP T630
+
+Beelink SERV5 Pro
